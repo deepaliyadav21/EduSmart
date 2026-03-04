@@ -15,9 +15,9 @@ Node.js
 AI-based Quiz Generation  
 Modern Dashboard UI
 
-🔥 Key Features:
-AI Generated Quizzes
-User Authentication
-Course Management System
-Performance Tracking Dashboard
+🔥 Key Features:  
+AI Generated Quizzes  
+User Authentication  
+Course Management System  
+Performance Tracking Dashboard  
 Real-world MERN Project Architecture
