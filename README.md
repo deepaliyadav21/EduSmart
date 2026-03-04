@@ -1,4 +1,5 @@
-"# EduSmart" 
+"# EduSmart"   
+
  I have built a complete LMS (Learning Management System) website using MERN Stack with an AI-powered Quiz Generator and an interactive Dashboard.
 
 This LMS platform allows users to:
